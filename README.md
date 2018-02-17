@@ -1,7 +1,7 @@
 # Alfred Screen Sharing
 Easily start a screen sharing session directly from Alfred.
 
-[!Workflow Icon](https://github.com/jtvhk/alfred-screen-sharing/raw/master/Alfred-Workflow.png)
+![Workflow Icon](https://github.com/jtvhk/alfred-screen-sharing/raw/master/Alfred-Workflow.png)
 
 This workflow was created for Alfred 3. At the moment, it:
 
