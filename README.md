@@ -11,7 +11,11 @@ This workflow was created for Alfred 3. At the moment, it:
 - Pastes the VNC address or Apple ID entered as a query
 - Presses "Enter" to begin the session
 
-Admittedly this is a lazy approach, so pull requests to improve the workflow's capabilities are welcomed.
+Admittedly this is a lazy approach, so pull requests to improve the workflow's capabilities are welcomed. Future versions could add the ability to:
+
+- List recent sessions
+- List possible connections on the local network
+- Let you select a contact's name instead of typing their email, like the native behavior. 
 
 [Download the latest release here](https://github.com/jtvhk/alfred-screen-sharing/releases/tag/1.0)
 
