@@ -19,4 +19,4 @@ Admittedly this is a lazy approach, so pull requests to improve the workflow's c
 
 ### Copyright and Licensing
 
-The Screen Sharing icon is the property of Apple, Inc.
+The Screen Sharing icon is the property of Apple, Inc. All other assets are the property of their respective owners.
