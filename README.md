@@ -15,6 +15,6 @@ Admittedly this is a lazy approach, so pull requests to improve the workflow's c
 
 --- 
 
-Copyright and Licensing
+### Copyright and Licensing
 
 The Screen Sharing icon used in this workflow is the property of Apple, Inc.
