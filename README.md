@@ -13,7 +13,7 @@ This workflow was created for Alfred 3. At the moment, it:
 
 Admittedly this is a lazy approach, so pull requests to improve the workflow's capabilities are welcomed.
 
-[Download the latest release here](https://github.com/jtvhk/alfred-screen-sharing/raw/master/Screen-Sharing.alfredworkflow)
+[Download the latest release here](https://github.com/jtvhk/alfred-screen-sharing/releases/tag/1.0)
 
 --- 
 
